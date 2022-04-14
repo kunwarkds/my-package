@@ -1,5 +1,5 @@
 const sayHello = function (name) {
-    console.log("Hello " + name + "!")
+    console.log("Owner " + name + "!")
   }
   
   module.exports = {
