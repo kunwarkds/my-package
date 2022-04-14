@@ -1,10 +1,10 @@
 {
-  "name": "@kunwarkds/my-package",
+  "name": "my-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@kunwarkds/my-package"
+    "registry":"https://npm.pkg.github.com/@kunwarkds"
   },  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
